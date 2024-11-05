@@ -23,4 +23,5 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
+           tags: avery519314/clockbox:latest
          
